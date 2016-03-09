@@ -1,0 +1,43 @@
+﻿Build started 3/9/2016 1:49:05 PM.
+     1>Project "C:\Users\Hua Yuan Yu\Desktop\CS3113 HW Mains\#4\NYUCodebase\NYUCodebase\NYUCodebase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\SDL2\include /IC:\SDL2_image\include /IC:\glew\include /IC:\SDL2_mixer\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDOWS /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt gameApp.cpp
+         gameApp.cpp
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(117): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(128): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(132): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(152): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(165): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(217): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(227): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(242): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(280): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(309): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(316): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(351): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(353): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(365): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(379): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(387): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(396): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(415): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(424): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(441): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(444): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(454): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\cs3113 hw mains\#4\nyucodebase\nyucodebase\gameapp.cpp(361): warning C4715: 'gameApp::CheckWall' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hua Yuan Yu\Desktop\CS3113 HW Mains\#4\NYUCodebase\Debug\NYUCodebase.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\SDL2_mixer\lib\x86 /LIBPATH:C:\SDL2\lib\x86 /LIBPATH:C:\SDL2_image\lib\x86 /LIBPATH:C:\glew\lib\Release\Win32 SDL2.lib SDL2_mixer.lib glew32.lib SDL2main.lib SDL2_image.lib OpenGL32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Hua Yuan Yu\Desktop\CS3113 HW Mains\#4\NYUCodebase\Debug\NYUCodebase.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Hua Yuan Yu\Desktop\CS3113 HW Mains\#4\NYUCodebase\Debug\NYUCodebase.lib" /MACHINE:X86 Debug\Entity.obj
+         Debug\gameApp.obj
+         Debug\main.obj
+         Debug\Matrix.obj
+         Debug\ShaderProgram.obj
+         Debug\SpriteSheet.obj
+         NYUCodebase.vcxproj -> C:\Users\Hua Yuan Yu\Desktop\CS3113 HW Mains\#4\NYUCodebase\Debug\NYUCodebase.exe
+     1>Done Building Project "C:\Users\Hua Yuan Yu\Desktop\CS3113 HW Mains\#4\NYUCodebase\NYUCodebase\NYUCodebase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.96
