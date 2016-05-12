@@ -1,0 +1,291 @@
+﻿Build started 5/12/2016 9:51:09 AM.
+     1>Project "C:\Users\Hua Yuan Yu\Desktop\TH Quest\NYUCodebase\NYUCodebase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\SDL2\include /IC:\SDL2_image\include /IC:\glew\include /IC:\SDL2_mixer\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDOWS /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt gameApp.cpp
+         gameApp.cpp
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.h(98): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(167): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(168): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(169): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(170): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(171): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(172): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(173): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(174): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(175): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(176): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(177): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(179): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(180): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(181): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(182): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(183): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(184): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(185): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(186): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(187): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(188): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(189): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(190): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(191): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(193): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(194): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(195): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(196): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(197): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(198): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(199): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(200): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(201): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(202): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(204): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(205): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(206): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(207): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(208): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(209): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(210): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(211): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(212): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(213): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(215): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(216): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(218): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(219): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(220): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(221): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(222): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(223): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(224): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(225): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(226): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(227): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(228): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(229): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(230): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(232): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(233): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(234): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(235): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(236): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(237): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(238): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(239): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(240): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(241): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(242): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(243): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(244): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(246): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(247): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(249): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(250): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(251): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(252): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(253): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(254): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(258): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(259): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(260): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(261): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(262): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(264): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(265): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(266): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(268): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(269): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(270): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(271): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(272): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(273): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(274): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(275): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(276): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(277): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(278): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(279): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(280): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(282): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(283): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(284): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(285): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(286): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(287): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(288): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(289): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(291): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(292): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(293): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(294): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(295): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(296): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(297): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(299): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(300): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(301): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(302): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(303): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(304): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(305): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(306): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(307): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(308): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(309): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(311): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(313): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(314): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(315): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(316): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(317): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(318): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(319): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(320): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(321): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(322): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(323): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(324): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(325): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(326): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(327): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(328): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(329): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(330): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(331): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(332): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(334): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(336): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(337): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(338): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(340): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(341): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(342): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(343): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(344): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(345): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(346): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(347): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(348): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(349): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(350): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(368): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(369): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(370): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(371): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(372): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(373): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(374): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(375): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(376): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(377): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(378): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(381): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(382): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(383): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(384): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(385): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(386): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(387): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(388): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(391): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(392): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(393): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(394): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(395): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(396): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(399): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(400): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(401): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(402): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(403): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(404): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(405): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(406): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(407): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(435): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(450): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(576): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(599): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(600): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(601): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(602): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(611): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(612): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(613): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(614): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(636): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(637): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(647): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(648): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(649): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(672): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(698): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(864): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(977): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(994): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(996): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(998): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1006): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1008): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1010): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1018): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1020): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1022): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1030): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1032): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1034): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1042): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1044): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1046): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1054): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1056): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1058): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1084): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1088): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1091): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1092): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1093): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1094): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1112): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1125): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1138): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1156): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1225): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1264): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1269): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1270): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1271): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1272): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1273): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1274): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1290): warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1292): warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1292): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1294): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1294): warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1303): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1304): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1305): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1306): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1307): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1308): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1424): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1439): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1535): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1549): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hua yuan yu\desktop\th quest\nyucodebase\gameapp.cpp(1554): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hua Yuan Yu\Desktop\TH Quest\Debug\NYUCodebase.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\SDL2_mixer\lib\x86 /LIBPATH:C:\SDL2\lib\x86 /LIBPATH:C:\SDL2_image\lib\x86 /LIBPATH:C:\glew\lib\Release\Win32 SDL2.lib SDL2_mixer.lib glew32.lib SDL2main.lib SDL2_image.lib OpenGL32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Hua Yuan Yu\Desktop\TH Quest\Debug\NYUCodebase.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Hua Yuan Yu\Desktop\TH Quest\Debug\NYUCodebase.lib" /MACHINE:X86 Debug\Entity.obj
+         Debug\gameApp.obj
+         Debug\main.obj
+         Debug\Matrix.obj
+         Debug\ShaderProgram.obj
+         Debug\SpriteSheet.obj
+         NYUCodebase.vcxproj -> C:\Users\Hua Yuan Yu\Desktop\TH Quest\Debug\NYUCodebase.exe
+     1>Done Building Project "C:\Users\Hua Yuan Yu\Desktop\TH Quest\NYUCodebase\NYUCodebase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.29
